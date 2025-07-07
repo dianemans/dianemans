@@ -16,7 +16,7 @@ Je ne t'en dis pas plus, voici une liste des mes projets phares sur lesquels tu 
 
 🥊 [MMAtchMaker](https://github.com/dianemans/mmatchmaker) Générateur du combat optimal pour un combattant et un lieu. L'objectif est de faire gagner un temps précieux aux organisations et aux managers. 
 
-📈 [Bike trafic predictions](https://github.com/dianemans/bike_count_ldmh) Prédiction du nombre de vélos 
+📈 [Bike trafic predictions](https://github.com/dianemans/bike_count_ldmh) Prédiction du nombre de vélos qui passe devant certains compteurs dans Paris. 
 
 
 ---
