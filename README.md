@@ -4,7 +4,7 @@ Avant d'apprendre à coder, j'ai appris les mathématiques, et je me suis interr
 
 Je code surtout en **Python**, mais je maîtrise aussi **R**, **SQL**, **HTML** et **LaTeX**. 
 
-Je te présente içi mes projets principaux, des projets personnels comme académiques, des projets individuels et des projets en groupe. Ils touchent à des domaines aussi divers que le trafic cycliste, l'implémentation d'un chatbot de voyage, la finance de marché, ou encore le MMA ! 
+Je te présente ici mes projets principaux, des projets personnels comme académiques, des projets individuels et des projets en groupe. Ils touchent à des domaines aussi divers que le trafic cycliste, l'implémentation d'un chatbot de voyage, la finance de marché, ou encore le MMA ! 
 
 Je ne t'en dis pas plus, voici une liste des mes projets phares sur lesquels tu peux jeter un coup d'oeil. 
 
