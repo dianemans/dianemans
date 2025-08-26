@@ -18,6 +18,8 @@ Je ne t'en dis pas plus, voici une liste des mes projets phares sur lesquels tu 
 
 📈 [Bike trafic predictions](https://github.com/dianemans/bike_count_ldmh) Prédiction du nombre de vélos qui passe devant certains compteurs dans Paris. 
 
+🏦 [Deep Hedging](https://github.com/pottierc/Deep-hedging.git) et [Option Pricing with Deep Leanring](https://github.com/pottierc/Project_2f_bergomi.git), deux projets qui mêlent Deep Learning et Finance.
+
 
 ---
 
